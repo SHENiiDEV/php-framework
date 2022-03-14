@@ -1,0 +1,64 @@
+[2018-08-27 13:52:23] Текст ошибки: Undefined variable: test | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 87 
+=================
+[2018-08-27 13:54:17] Текст ошибки: Упс, исключение | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 90
+==========================
+[2018-08-27 13:59:34] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 93
+==========================
+[2018-08-27 14:01:33] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 93
+==========================
+[2018-08-27 14:04:16] Текст ошибки: Упс, исключение | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 78
+==========================
+[2018-08-27 14:04:32] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 67
+==========================
+[2018-08-27 14:05:59] Текст ошибки: Undefined variable: test | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 92 
+=================
+[2018-08-27 14:08:03] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 93
+==========================
+[2018-08-27 14:09:48] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 93
+==========================
+[2018-08-27 14:10:15] Текст ошибки: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in C:\OSPanel\domains\fw\public\test\error\index.php:53
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler(Object(Error))
+#1 {main}
+  thrown | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 53
+==========================
+[2018-08-27 14:10:53] Текст ошибки: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in C:\OSPanel\domains\fw\public\test\error\index.php:53
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler(Object(Error))
+#1 {main}
+  thrown | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 53
+==========================
+[2018-08-27 14:12:06] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 92
+==========================
+[2018-08-27 14:13:25] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 90
+==========================
+[2018-08-27 14:13:27] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 90
+==========================
+[2018-08-27 14:13:41] Текст ошибки: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in C:\OSPanel\domains\fw\public\test\error\index.php:53
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler(Object(Error))
+#1 {main}
+  thrown | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 53
+==========================
+[2018-08-27 14:13:51] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 93
+==========================
+[2018-08-27 14:14:06] Текст ошибки: Упс, исключение | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 91
+==========================
+[2018-08-27 14:14:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 89
+==========================
+[2018-08-27 14:14:35] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 77
+==========================
+[2018-08-27 14:15:28] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 78
+==========================
+[2018-08-27 14:16:21] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 79
+==========================
+[2018-08-27 14:16:23] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 79
+==========================
+[2018-08-27 14:16:46] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 80
+==========================
+[2018-08-27 14:18:00] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 78
+==========================
+[2018-08-27 14:18:02] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 78
+==========================
+[2018-08-27 14:18:19] Текст ошибки: Call to undefined function test() | Файл: C:\OSPanel\domains\fw\public\test\error\index.php, | Строка: 78
+==========================

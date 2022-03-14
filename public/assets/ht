@@ -1,0 +1,19 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^www.pr.all-around-germany\.de [NC]
+RewriteRule (.*) https://pr.all-around-germany.de/$1 [R=301,L]
+
+#RewriteCond %{REQUEST_FILENAME} !robots\.txt
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+#RewriteCond %{REQUEST_FILENAME} !robots\.txt
+#RewriteCond %{SERVER_PORT} !^443$ 
+#RewriteRule (.*) https://%{HTTP_HOST}/$1 [R=301]
+
+#RewriteCond %{HTTP_HOST} ^www.all-around-germany\.de [NC]
+#RewriteRule (.*) https://all-around-germany.de/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]

@@ -1,0 +1,13 @@
+<script src="/assets/js/jquery-1.11.1.min.js"></script>
+<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="/assets/js/jquery.backstretch.min.js"></script>
+<script src="/assets/js/lightgallery-all.min.js"></script>
+<script src="/assets/js/jquery.form.js"></script>
+<script src="/assets/js/jquery.validate.js"></script>
+<script src="/assets/js/wow.min.js"></script>
+<script src="/assets/main.js"></script>
+<script src="/assets/js/retina-1.1.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js"></script>
+<script src="/assets/js/lightgallery-all.min.js"></script>
+<script src="/assets/js/jquery.mousewheel.min.js"></script>
+<script src="/assets/js/scripts.js"></script>
